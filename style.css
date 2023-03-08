@@ -1,16 +1,16 @@
 .page-title {
-    color: crimson;
-    text-align: center;
-    font-size: 100px;
+  color: crimson;
+  text-align: center;
+  font-size: 100px;
 }
 
 .food {
-    font-size: 50px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    text-align: center;
+  font-size: 50px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
 }
 
 img {
-    width: 300px;
-    height: auto;
+  width: 300px;
+  height: auto;
 }
